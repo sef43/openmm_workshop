@@ -1,3 +1,12 @@
+# Up to date version is now in the OpenMM organisation: https://github.com/openmm/openmm_workshop_july2023 
+
+
+
+
+--------
+
+
+
 # OpenMM workshop
 
 This repository contains the materials for the OpenMM workshop delivered on 12th July 2023 after the CCPBioSim conference.
